@@ -1,1 +1,1 @@
-# 7segment
+In this project, a board containing several DIP switches and a four-digit seven-segment display was used. The attached UCF file . To make the numbers visible on the seven-segment display, the timing needed to be set to 1ms, which was done using a counter.
