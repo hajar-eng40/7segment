@@ -1,0 +1,22 @@
+# CLOCK
+NET "Clock"  		LOC = P50;   # 24MHz on-board clock
+
+# 7-segment
+NET "COM[0]"         LOC = P46;
+NET "COM[1]"         LOC = P45;
+NET "COM[2]"         LOC = P41;
+NET "COM[3]"         LOC = P32;
+
+NET "SevenSeg[0]"   LOC = P47;
+NET "SevenSeg[1]"   LOC = P43;
+NET "SevenSeg[2]"   LOC = P34;
+NET "SevenSeg[3]"   LOC = P40;
+NET "SevenSeg[4]"   LOC = P35;
+NET "SevenSeg[5]"   LOC = P44;
+NET "SevenSeg[6]"   LOC = P30;
+NET "SevenSeg[7]"   LOC = P33;
+
+# dip-switches
+NET "DIP[0]"    LOC = P51;
+NET "DIP[1]"    LOC = P48;
+NET "DIP[2]"    LOC = P55;
